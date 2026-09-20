@@ -11,8 +11,10 @@ bool DB_TrackExists_s(const char* track_name);
 
 bool DB_InsertTrack(Track track);
 bool DB_RemoveTrack(uint32_t id);
-bool DB_UpdateTrack(Track new_track_info);
-Track DB_LoadTrack(uint32_t id);
+bool DB_UpdateTrack(uint32_t id, Track new_track_info);
+bool DB_LoadTrack(uint32_t id, Track* temporary_track);
+
+
 
 
 

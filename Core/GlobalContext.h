@@ -1,5 +1,6 @@
 #pragma once
 #include "sqlite3/sqlite3.h"
+#include "Audio/AudioData.h"
 
 typedef struct GlobalContext
 {
@@ -9,6 +10,9 @@ typedef struct GlobalContext
 	
 	// Database 
 	sqlite3* database;
+
+	// Audio 
+	AudioData AudioContext;
 
 
 } GlobalContext;
