@@ -88,4 +88,5 @@ dkms.conf
 *.app
 
 build
-
+old_build
+linux-build

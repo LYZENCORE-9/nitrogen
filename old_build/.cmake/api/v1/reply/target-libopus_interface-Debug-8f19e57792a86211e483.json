@@ -1,0 +1,41 @@
+{
+	"abstract" : true,
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library"
+		],
+		"files" : 
+		[
+			"deps/miniaudio-0.11.25/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 550,
+				"parent" : 0
+			}
+		]
+	},
+	"codemodelVersion" : 
+	{
+		"major" : 2,
+		"minor" : 10
+	},
+	"id" : "libopus_interface::@9a9a1e8c802d9d9353f7",
+	"name" : "libopus_interface",
+	"paths" : 
+	{
+		"build" : "deps/miniaudio-0.11.25",
+		"source" : "deps/miniaudio-0.11.25"
+	},
+	"sources" : [],
+	"type" : "INTERFACE_LIBRARY"
+}

@@ -2,6 +2,7 @@
 
 #include <stdint.h>
 #include <stdbool.h>
+#include <stddef.h>
 
 typedef enum TrackState
 {
@@ -50,4 +51,14 @@ typedef struct Track
 
 
 } Track;
+
+typedef struct TrackContainer
+{
+	size_t capacity;
+	size_t count;
+	Track* items;
+
+} TrackContainer;
+
+// Dyanmic Container ( Array in C)
 

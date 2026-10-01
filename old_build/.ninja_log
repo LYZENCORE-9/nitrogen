@@ -1,0 +1,53 @@
+# ninja log v6
+46	503	8122517880094190	Core/CMakeFiles/LLCore.dir/Audio/ProcessingCallbacks.c.obj	2dc82b156b54b020
+17	511	8122517879621266	Core/CMakeFiles/LLCore.dir/Audio/AudioManager.c.obj	1856205311d46342
+105	510	8122517880522197	Core/CMakeFiles/LLCore.dir/Database/TrackTable.c.obj	f91e39699d4ffd4c
+2420	2972	8121700496756230	deps/rxi-log/librxi-log.a	e85710314e2ea0ad
+3310	4314	8121700505650274	deps/miniaudio-0.11.25/CMakeFiles/miniaudio_vocoder_node.dir/extras/nodes/ma_vocoder_node/ma_vocoder_node.c.obj	e37f84d599b4b379
+30	2418	8121700472856028	deps/rxi-log/CMakeFiles/rxi-log.dir/src/log.c.obj	fa6c70d32031017c
+9	6764	8122519778096867	C:/Users/User/Desktop/Sandisk USB/repositories/nitrogen/build/deps/rxi-log/cmake_install.cmake	1247e0df2119e13d
+98	453	8122517880460778	Core/CMakeFiles/LLCore.dir/Database/Database.c.obj	c36fd3ad670ec339
+114	389	8122517880602095	Core/CMakeFiles/LLCore.dir/Tracks/TrackManager.c.obj	f51f9261b7db6c26
+119	535	8122517880714739	Core/CMakeFiles/LLCore.dir/GlobalContext.c.obj	2904539cbbadc118
+2900	3299	8121700501544897	deps/miniaudio-0.11.25/CMakeFiles/miniaudio_channel_combiner_node.dir/extras/nodes/ma_channel_combiner_node/ma_channel_combiner_node.c.obj	b5e00cbeb4c14fbe
+2964	3309	8121700502205291	deps/miniaudio-0.11.25/CMakeFiles/miniaudio_channel_separator_node.dir/extras/nodes/ma_channel_separator_node/ma_channel_separator_node.c.obj	bb9577d0109b0165
+2976	3363	8121700502303985	deps/miniaudio-0.11.25/CMakeFiles/miniaudio_ltrim_node.dir/extras/nodes/ma_ltrim_node/ma_ltrim_node.c.obj	4e93999529166996
+280	1283	8122434012985859	test/CMakeFiles/test.dir/main.c.obj	b5ea1ac3f1a2e3e8
+3548	3926	8121700508005953	deps/miniaudio-0.11.25/libminiaudio_channel_combiner_node.a	87c4e81b7856b481
+3300	4138	8121700505549231	deps/miniaudio-0.11.25/CMakeFiles/miniaudio_reverb_node.dir/extras/nodes/ma_reverb_node/ma_reverb_node.c.obj	f92271918d637b73
+3926	4247	8121700511802594	deps/miniaudio-0.11.25/libminiaudio_channel_separator_node.a	cd269715a3a7f1c6
+4139	4384	8121700513951443	deps/miniaudio-0.11.25/libminiaudio_ltrim_node.a	9a5fac2394d5c8f1
+535	1081	8122517884820801	Core/libLLCore.dll.a	4faeb677d8a3a19b
+4315	4523	8121700515702784	deps/miniaudio-0.11.25/libminiaudio_vocoder_node.a	3c02b96d93affec9
+4247	4527	8121700515004761	deps/miniaudio-0.11.25/libminiaudio_reverb_node.a	bff058b52ef73769
+14	10750	8121700472703694	deps/mongoose-7.23/CMakeFiles/mongoose.dir/mongoose.c.obj	b82d59d1dc464627
+10753	10935	8121700580056001	deps/mongoose-7.23/libmongoose.a	84ff9bad379913b2
+9	6764	8122519778409439	C:/Users/User/Desktop/Sandisk USB/repositories/nitrogen/build/test/cmake_install.cmake	1247e0df2119e13d
+23	14531	8121700472805929	deps/sqlite-3.53.4/CMakeFiles/sqlite3.dir/sqlite3.c.obj	143160a7e47a5b25
+535	1081	8122517884820801	Core/libLLCore.dll	4faeb677d8a3a19b
+14532	14947	8121700617850056	deps/sqlite-3.53.4/libsqlite3.a	8f333d9731ebba63
+9	6764	8122519778253454	C:/Users/User/Desktop/Sandisk USB/repositories/nitrogen/build/Core/cmake_install.cmake	1247e0df2119e13d
+57	15340	8121700473152833	deps/miniaudio-0.11.25/CMakeFiles/miniaudio.dir/miniaudio.c.obj	f8ff1ee98794734c
+15340	15519	8121700625882339	deps/miniaudio-0.11.25/libminiaudio.a	fc0c22a749b24907
+3557	4065	8122434045660120	test/test.exe	f0ea0b44fc8ac532
+9	6764	8122519778565672	build.ninja	1247e0df2119e13d
+9	6764	8122519777784421	C:/Users/User/Desktop/Sandisk USB/repositories/nitrogen/build/cmake_install.cmake	1247e0df2119e13d
+9	6764	8122519777940622	C:/Users/User/Desktop/Sandisk USB/repositories/nitrogen/build/deps/cmake_install.cmake	1247e0df2119e13d
+9	6764	8122519777940622	C:/Users/User/Desktop/Sandisk USB/repositories/nitrogen/build/deps/mongoose-7.23/cmake_install.cmake	1247e0df2119e13d
+9	6764	8122519777940622	C:/Users/User/Desktop/Sandisk USB/repositories/nitrogen/build/deps/sqlite-3.53.4/cmake_install.cmake	1247e0df2119e13d
+9	6764	8122519778253454	C:/Users/User/Desktop/Sandisk USB/repositories/nitrogen/build/deps/miniaudio-0.11.25/cmake_install.cmake	1247e0df2119e13d
+8	1319	8122519778565672	build.ninja	1247e0df2119e13d
+8	1319	8122519778565672	C:/Users/User/Desktop/Sandisk USB/repositories/nitrogen/build/cmake_install.cmake	1247e0df2119e13d
+8	1319	8122519778565672	C:/Users/User/Desktop/Sandisk USB/repositories/nitrogen/build/deps/cmake_install.cmake	1247e0df2119e13d
+8	1319	8122519778565672	C:/Users/User/Desktop/Sandisk USB/repositories/nitrogen/build/deps/mongoose-7.23/cmake_install.cmake	1247e0df2119e13d
+8	1319	8122519778565672	C:/Users/User/Desktop/Sandisk USB/repositories/nitrogen/build/deps/sqlite-3.53.4/cmake_install.cmake	1247e0df2119e13d
+8	1319	8122519778565672	C:/Users/User/Desktop/Sandisk USB/repositories/nitrogen/build/deps/rxi-log/cmake_install.cmake	1247e0df2119e13d
+8	1319	8122519778565672	C:/Users/User/Desktop/Sandisk USB/repositories/nitrogen/build/deps/miniaudio-0.11.25/cmake_install.cmake	1247e0df2119e13d
+8	1319	8122519778565672	C:/Users/User/Desktop/Sandisk USB/repositories/nitrogen/build/Core/cmake_install.cmake	1247e0df2119e13d
+8	1319	8122519778565672	C:/Users/User/Desktop/Sandisk USB/repositories/nitrogen/build/test/cmake_install.cmake	1247e0df2119e13d
+21	171	8122519779503126	test/CMakeFiles/test.dir/main.c.obj	b01ae823daec6b24
+14	410	8122519779503126	deps/rxi-log/CMakeFiles/rxi-log.dir/src/log.c.obj	cc638fe5cfa774e
+411	1022	8122519783409453	deps/rxi-log/librxi-log.a	e85710314e2ea0ad
+1022	1415	8122519789573602	Core/libLLCore.dll	4faeb677d8a3a19b
+1022	1415	8122519789573602	Core/libLLCore.dll.a	4faeb677d8a3a19b
+1416	1723	8122519793399620	test/test.exe	f0ea0b44fc8ac532

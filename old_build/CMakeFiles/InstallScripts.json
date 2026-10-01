@@ -1,0 +1,14 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/User/Desktop/Sandisk USB/repositories/nitrogen/build/cmake_install.cmake",
+		"C:/Users/User/Desktop/Sandisk USB/repositories/nitrogen/build/deps/cmake_install.cmake",
+		"C:/Users/User/Desktop/Sandisk USB/repositories/nitrogen/build/deps/mongoose-7.23/cmake_install.cmake",
+		"C:/Users/User/Desktop/Sandisk USB/repositories/nitrogen/build/deps/sqlite-3.53.4/cmake_install.cmake",
+		"C:/Users/User/Desktop/Sandisk USB/repositories/nitrogen/build/deps/rxi-log/cmake_install.cmake",
+		"C:/Users/User/Desktop/Sandisk USB/repositories/nitrogen/build/deps/miniaudio-0.11.25/cmake_install.cmake",
+		"C:/Users/User/Desktop/Sandisk USB/repositories/nitrogen/build/Core/cmake_install.cmake",
+		"C:/Users/User/Desktop/Sandisk USB/repositories/nitrogen/build/test/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

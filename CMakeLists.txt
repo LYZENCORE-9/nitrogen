@@ -12,3 +12,6 @@ add_subdirectory(Core)
 
 # Client CL (replacable)
 #add_subdirectory(Client)
+
+#test
+add_subdirectory(test)

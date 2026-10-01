@@ -3,8 +3,17 @@
 #include <miniaudio/miniaudio.h>
 #include <stdint.h>
 
-static void audio_callback(ma_device* device, void* Output, const void* Input, ma_uint32 frameCount);
 
 bool AudioManager_Init();
-bool AudioManager_Deinit();
+void AudioManager_Deinit();
+
+bool AudioManager_SwitchSoundFile(const char* filepath);
+
+void AudioManager_CallPlay();
+void AudioManager_CallPause();
+void AudioManager_CallResume();
+void AudioManager_CallStop(); // resets everything , i mean resets track data
+bool AudioManager_IsPaused();
+bool AudioManager_IsStopped();
+
 
