@@ -36,7 +36,7 @@ void execute_decoder_processing()
 		
 		if(atomic_load(&GlobalContextCore.AudioContext.is_started) == false)
 		{
-			ma_pcm_rb_reset(&GlobalContextCore.AudioContext.rb);
+//			ma_pcm_rb_reset(&GlobalContextCore.AudioContext.rb);
 			log_trace("Called STOPEVENT in THREAD.");
 			break;
 		}

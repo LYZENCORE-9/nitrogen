@@ -93,6 +93,7 @@ void AudioManager_CallStop()
 		return;
 	}
 	atomic_store(&GlobalContextCore.AudioContext.is_started, false);
+	ma_pcm_rb_reset(&GlobalContextCore.AudioContext.rb);
 	pthread_join(GlobalContextCore.decoder_thread_handle, NULL);
 	ma_device_stop(&GlobalContextCore.AudioContext.device);
 }
